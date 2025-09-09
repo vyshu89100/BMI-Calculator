@@ -88,6 +88,10 @@ button {
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  background-image: url("bmi3.jpg");
+  background-repeat: repeat;
+  background-position: Center;
+
 }
 
 /* Navbar Styles */
@@ -150,5 +154,6 @@ body.about {
   font-size: 18px;
   line-height: 1.6;
 }
+
 
 
