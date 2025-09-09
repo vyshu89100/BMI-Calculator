@@ -1,5 +1,5 @@
 body.home {
-  background-image: bmi3.jpg;
+  background-image: url("bmi3.jpg");
   background-size:cover;
   color:white;
   font-family: Arial, sans-serif;
@@ -150,4 +150,5 @@ body.about {
   font-size: 18px;
   line-height: 1.6;
 }
+
 
