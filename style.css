@@ -1,5 +1,5 @@
 body.home {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://stock.adobe.com/in/search/images?k=bmi');
+  background-image: bmi3.jpg;
   background-size:cover;
   color:white;
   font-family: Arial, sans-serif;
@@ -150,3 +150,4 @@ body.about {
   font-size: 18px;
   line-height: 1.6;
 }
+
