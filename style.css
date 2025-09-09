@@ -10,7 +10,7 @@ body.home {
 body.calculator {
   background-image: url("bmi4.jpg");
   background-repeat: repeat;
-  background-position: Center; background-image:url('https://t3.ftcdn.net/jpg/05/35/51/12/240_F_535511207_bAW9WMBPX38OpHjmsdxAnUvYn1RZt7b7.jp');
+  background-position: Center; 
   background-size: cover;
   font-family: Arial, sans-serif;
   color: #fff;
@@ -156,6 +156,7 @@ body.about {
   font-size: 18px;
   line-height: 1.6;
 }
+
 
 
 
