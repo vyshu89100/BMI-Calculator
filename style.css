@@ -1,5 +1,5 @@
 body.home {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('C:\\Users\\2430115\\Downloads\\bmi5.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://stock.adobe.com/in/search/images?k=bmi');
   background-size:cover;
   color:white;
   font-family: Arial, sans-serif;
@@ -8,7 +8,7 @@ body.home {
 }
 
 body.calculator {
-  background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('C:\\Users\\2430115\\Downloads\\bmi3.jpg');
+  background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('https://t3.ftcdn.net/jpg/05/35/51/12/240_F_535511207_bAW9WMBPX38OpHjmsdxAnUvYn1RZt7b7.jp');
   background-size: cover;
   font-family: Arial, sans-serif;
   color: #fff;
@@ -87,7 +87,7 @@ button {
 /* General Styles */
 body {
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 /* Navbar Styles */
@@ -124,7 +124,7 @@ body {
 
 /* About Page Styles */
 body.about {
-  background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('C:\\Users\\2430115\\Downloads\\bmi4.jpg'); /* Ensure this image exists */
+  background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://t3.ftcdn.net/jpg/05/35/51/12/240_F_535511207_bAW9WMBPX38OpHjmsdxAnUvYn1RZt7b7.jpg'); /* Ensure this image exists */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
