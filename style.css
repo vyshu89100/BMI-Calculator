@@ -10,6 +10,9 @@ body.home {
 body.calculator {
   background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('https://t3.ftcdn.net/jpg/05/35/51/12/240_F_535511207_bAW9WMBPX38OpHjmsdxAnUvYn1RZt7b7.jp');
   background-size: cover;
+  background-image: url("bmi4.jpg");
+  background-repeat: repeat;
+  background-position: Center;
   font-family: Arial, sans-serif;
   color: #fff;
   padding: 50px;
@@ -154,6 +157,7 @@ body.about {
   font-size: 18px;
   line-height: 1.6;
 }
+
 
 
 
